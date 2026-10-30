@@ -1,1 +1,1 @@
-# Personal-Website
+# This repository was created as a personal website project by Fairuz Nasir.
